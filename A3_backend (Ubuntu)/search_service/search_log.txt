@@ -1,0 +1,3 @@
+Charles : 18:02:34.191526 Total count: 1.
+Charles dickens : 18:04:10.710341 Total count: 1.
+Charles dickens : 18:04:32.643918 Total count: 2.
